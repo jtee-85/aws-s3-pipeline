@@ -1,5 +1,6 @@
 # aws-s3-pipeline
 <img width="327" height="364" alt="Screenshot 2026-03-20 100017" src="https://github.com/user-attachments/assets/e6019f9f-11bf-48a7-8f26-42e00feeae8f" />
+
 # AWS CI/CD Pipeline: Static Website Deployment
 
 This project demonstrates a fully automated Continuous Integration and Continuous Deployment (CI/CD) pipeline for a static website hosted on Amazon S3.
